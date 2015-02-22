@@ -1,0 +1,33 @@
+lesson 1:
+
+how does diff help coding?
+
+makes comparison easy
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+you can go back to an older version easily;
+you can verify the changes between 2 versions;
+you can spot who made the changes.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
++: manual commit gives programmer total control over versions;
+-: may loose some work between commits if computer fails;
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+git has repository; googledoc may not
+
+How can you use the commands git log and git diff to view the history of files?
+
+use log to display history;
+use diff to see changes
+
+How might using version control make you more confident to make changes that could break something?
+
+you can count on git to go back to older versions
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+it's cool. I will try to save files in the version controlled system
