@@ -1,0 +1,5 @@
+lesson 2 notes:
+
+What happens when you initialize a repository? Why do you need to do it?
+
+it puts the current directory under git version control. it creates the .git directory. it has to be done to use git.
