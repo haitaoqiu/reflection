@@ -1,3 +1,13 @@
 lesson 3 notes.
 
 When would you want to use a remote repository rather than keeping all your work local?
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+you want control when to publish changes to public
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+fork clones a copy of somebody else's repository to your own in github;
+clone makes a copy of a repository;
+branch makes a branch from another branch
